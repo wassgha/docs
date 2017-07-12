@@ -63,6 +63,11 @@ msgid ""
 " they’re free of malware. Most of all, these ads can be delivered anywhere on"
 " the web, not just on AMP pages."
 msgstr ""
+"Les Annonces AMP sont a nouveau, meilleur moyen de créer, publier et évaluer "
+"des annonces plus rapides, plus lègeres et plus sécurisées. Les Annonces AMP "
+"sont des publicités créées en utilisant AMP-HTML, utilisant plusieurs composants"
+" intelligents parmis ceux qui rendent les pages AMP rapides. Ces annonces ne "
+"sont publiées que après être validées, ce qui assure 
 
 #: /content/learn/who/amp-ads.yaml
 msgid ""
@@ -468,33 +473,33 @@ msgstr ""
 
 #: /content/learn/who/ad-tech-platforms.yaml /content/learn/who/publishers.yaml
 msgid "Get Started Building"
-msgstr ""
+msgstr "Commencez à Développer"
 
 #: /content/includes/doc.yaml
 msgid "Get in touch"
-msgstr ""
+msgstr "Contactez nous"
 
 #: /content/learn/amp-design-principles.yaml
 #: /content/learn/amp-design-principles@es.yaml
 #: /content/learn/amp-design-principles@ko.yaml
 msgid "Get started building"
-msgstr ""
+msgstr "Commencez à développer"
 
 #: /content/learn/who/advertisers.yaml
 msgid "Get started with AMP"
-msgstr ""
+msgstr "Mise en route avec AMP"
 
 #: /content/docs/getting-started.md
 msgid "Getting Started"
-msgstr ""
+msgstr "Mise En Route"
 
 #: /content/includes/menu.yaml
 msgid "Getting started"
-msgstr ""
+msgstr "Mise en route"
 
 #: /content/docs/contribute/github.md
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #: /content/learn/who/advertisers.yaml
 msgid "Grow engagement and increase conversions with faster experiences"
@@ -531,7 +536,7 @@ msgstr ""
 #: /content/learn/about-how@th.yaml /content/learn/about-how@tr.yaml
 #: /content/learn/about-how@zh_CN.yaml
 msgid "How AMP Works"
-msgstr ""
+msgstr "Comment AMP Marche"
 
 #: /content/learn/who/publishers.yaml
 msgid "How AMP can help publishers"
@@ -551,7 +556,7 @@ msgstr ""
 
 #: /content/learn/who/amp-ads.yaml
 msgid "Join Today"
-msgstr ""
+msgstr "Joindre Aujourd'hui"
 
 #: /content/learn/who/amp-ads.yaml
 msgid ""
@@ -569,11 +574,11 @@ msgstr ""
 
 #: /content/docs/reference/components/_blueprint.yaml
 msgid "Layout"
-msgstr ""
+msgstr "Disposition"
 
 #: /content/docs/reference/components/layout/_blueprint.yaml
 msgid "Layout - AMP components"
-msgstr ""
+msgstr "Disposition - Composants AMP"
 
 #: /content/learn/_blueprint.yaml
 msgid "Learn"
